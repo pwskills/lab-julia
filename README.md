@@ -1,4 +1,4 @@
-# neurolab-julia
+# lab-julia
 
 Command to run hello.jl file:
 
